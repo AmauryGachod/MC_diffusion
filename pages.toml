@@ -1,0 +1,9 @@
+[[pages]]
+path = "pages/1_diffusion_classique.py"
+name = "Diffusion Classique"
+icon = "🧪"
+
+[[pages]]
+path = "pages/2_diffusion_modifiee.py"
+name = "Diffusion Modifiée"
+icon = "🔬"
